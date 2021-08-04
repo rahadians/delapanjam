@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="805247db-2cfd-415a-92d1-cac96c30ab62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/delapanjam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/delapanjam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_windows_2.2.3-stable/flutter" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_windows_2.2.3-stable/flutter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_windows_2.2.3-stable/flutter/bin/dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_windows_2.2.3-stable/flutter/bin/dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_windows_2.2.3-stable/flutter/bin/flutter" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_windows_2.2.3-stable/flutter/bin/flutter" afterDir="false" />
@@ -45,8 +49,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -82,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

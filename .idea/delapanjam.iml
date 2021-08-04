@@ -10,8 +10,13 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/flutter_windows_2.2.3-stable/flutter/bin/cache/pkg/sky_engine/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_windows_2.2.3-stable/flutter/bin/cache/pkg/sky_engine/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_windows_2.2.3-stable/flutter/packages/flutter_tools/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_windows_2.2.3-stable/flutter/packages/flutter_tools/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_windows_2.2.3-stable/flutter/packages/flutter_tools/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
